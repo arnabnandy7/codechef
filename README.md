@@ -1,4 +1,6 @@
 # codechef
 My CodeChef solutions
 
-<!-- GitAds-Verify: U9FRXDEMTZQ2GP5HK239ROF7DIZA68XB -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=arnabnandy7/codechef@github)](https://gitads.dev/v1/ad-track?source=arnabnandy7/codechef@github)
+
